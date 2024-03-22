@@ -1,8 +1,8 @@
 {
-  "name": "uni-social-server",
+  "name": "vitest-pbl",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/maxintelsystems/unisocial-server",
+  "repository": "",
   "author": "Manuel2u <edodoo011@st.ug.edu.gh>",
   "license": "MIT",
   "scripts": {
